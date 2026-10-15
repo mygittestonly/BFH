@@ -2568,7 +2568,7 @@ namespace ConcentrationDetectionSys
         /// 左紫外灯打开/关闭
         /// </summary>
         /// <param name="sender"></param>
-        /// <param name="value"></param>
+        /// <param name="value">判断结果返回</param>
         private void uiSwitch1_ValueChanged(object sender, bool value)
         {
             if (!_isConnectedPLC)
