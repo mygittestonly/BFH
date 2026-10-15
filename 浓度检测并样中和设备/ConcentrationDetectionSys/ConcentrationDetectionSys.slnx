@@ -1,0 +1,68 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Default" />
+    <BuildType Name="Release" />
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/BLL/">
+    <Project Path="../ConcentrationDetectionSys.Bll/ConcentrationDetectionSys.Bll.csproj" Id="2241211e-60e3-4b08-805a-09f5d29b1f19">
+      <BuildType Solution="Default|Any CPU" Project="Release" />
+      <BuildType Solution="Default|x64" Project="Debug" />
+      <BuildType Solution="Default|x86" Project="Release" />
+      <Platform Solution="Debug|x64" Project="x64" />
+      <Platform Solution="Default|x64" Project="x64" />
+      <Build Solution="Default|*" Project="false" />
+    </Project>
+  </Folder>
+  <Folder Name="/Common/">
+    <Project Path="../ConcentrationDetectionSys.Common/ConcentrationDetectionSys.Common.csproj" Id="7f623ab1-08da-4849-9ed7-d028eda8852f">
+      <BuildType Solution="Default|Any CPU" Project="Release" />
+      <BuildType Solution="Default|x64" Project="Debug" />
+      <BuildType Solution="Default|x86" Project="Release" />
+      <Platform Solution="Debug|x64" Project="x64" />
+      <Platform Solution="Default|x64" Project="x64" />
+      <Build Solution="Default|*" Project="false" />
+    </Project>
+  </Folder>
+  <Folder Name="/DAL/">
+    <Project Path="../ConcentrationDetectionSys.DAL/ConcentrationDetectionSys.DAL.csproj" Id="0f0317df-dca8-49bc-ab27-32fcf5178a4e">
+      <BuildType Solution="Default|Any CPU" Project="Release" />
+      <BuildType Solution="Default|x64" Project="Debug" />
+      <BuildType Solution="Default|x86" Project="Release" />
+      <Platform Solution="Debug|x64" Project="x64" />
+      <Platform Solution="Default|x64" Project="x64" />
+      <Build Solution="Default|*" Project="false" />
+    </Project>
+  </Folder>
+  <Folder Name="/Hardware/">
+    <Project Path="../ConcentrationDetectionSys.Hardware/ConcentrationDetectionSys.Hardware.csproj" Id="a7519a43-7eb9-4a68-b6b5-01e48e63bb3a">
+      <BuildType Solution="Default|Any CPU" Project="Release" />
+      <BuildType Solution="Default|x64" Project="Debug" />
+      <BuildType Solution="Default|x86" Project="Release" />
+      <Platform Solution="*|x86" Project="x86" />
+      <Platform Solution="Debug|x64" Project="x64" />
+      <Platform Solution="Default|x64" Project="x64" />
+      <Build Solution="Default|*" Project="false" />
+    </Project>
+  </Folder>
+  <Folder Name="/Tools/">
+    <Project Path="../ConcentrationDetectionSys.Tools/ConcentrationDetectionSys.Tools.csproj" Id="fc1e91dc-196c-4e1c-9fe6-d8d4bbdda036">
+      <BuildType Solution="Default|Any CPU" Project="Release" />
+      <BuildType Solution="Default|x64" Project="Debug" />
+      <BuildType Solution="Default|x86" Project="Release" />
+      <Platform Solution="Debug|x64" Project="x64" />
+      <Platform Solution="Default|x64" Project="x64" />
+      <Build Solution="Default|*" Project="false" />
+    </Project>
+  </Folder>
+  <Folder Name="/UI/">
+    <Project Path="ConcentrationDetectionSys.csproj" Id="b5ba08bf-7f56-4d77-acdc-05b8c8db1815">
+      <BuildType Solution="Default|*" Project="Release" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Build Solution="Default|*" Project="false" />
+    </Project>
+  </Folder>
+</Solution>
