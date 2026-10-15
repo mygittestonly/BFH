@@ -126,6 +126,9 @@ namespace ConcentrationDetectionSys.Common
                 OnAlarmChanged?.Invoke();
             }
         }
+
+        public bool isSoftHaveAlarm = false;
+
         //外部添加一条报警
         public void AddAlarm(AlarmInfo alarm)
         {
@@ -134,6 +137,7 @@ namespace ConcentrationDetectionSys.Common
             alarm.Status = "未复位";
             _liveAlarmList_software.Add(alarm);
             OnAlarmChanged?.Invoke();
+            isSoftHaveAlarm = true;
         }
         //外部复位一条报警
         public void RestAlarm(AlarmInfo alarm)
@@ -144,6 +148,7 @@ namespace ConcentrationDetectionSys.Common
             _liveAlarmList_software.Remove(alarm);
             _alarmQueue.Enqueue(alarm);
             OnAlarmChanged?.Invoke();
+            isSoftHaveAlarm = false;
         }
 
         // 获取当前所有未复位报警

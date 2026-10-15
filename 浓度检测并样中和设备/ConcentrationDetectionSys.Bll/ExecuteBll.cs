@@ -503,10 +503,10 @@ namespace ConcentrationDetectionSys.Bll
                             {
 
                             }
-                            //if (CommonParam.s_ModeBools[0])
-                            //{
-                            //    SqlHelper.SetStringValue("RackID2WeightStep", WorkOrderKeyS1);
-                            //}
+                            if (CommonParam.s_ModeBools[0])
+                            {
+                                SqlHelper.SetStringValue("RackID2WeightStep", WorkOrderKeyS1);
+                            }
                             if (CommonParam.s_ModeBools[1])
                             {
                                 SqlHelper.SetStringValue("RackID2ConcentrationMeasurement", WorkOrderKeyS1);

@@ -29,7 +29,7 @@ namespace ConcentrationDetectionSys.Hardware
 
                 // 1. 先彻底清理上次可能残留的 COM 对象
                 Disconnect();
-                System.Threading.Thread.Sleep(10000);
+                System.Threading.Thread.Sleep(5000);
                 // 注意：既然你删了 Process.Kill，这里的 Disconnect 只是优雅释放 COM
 
                 // 2. 创建顶层对象
@@ -40,7 +40,7 @@ namespace ConcentrationDetectionSys.Hardware
 
                 // 3. 加上重试机制
                 int retryCount = 0;
-                while (retryCount < 3)
+                //while (retryCount < 3)
                 {
                     try
                     {
@@ -144,56 +144,58 @@ namespace ConcentrationDetectionSys.Hardware
 
         //    }
         //}
+
+
         /// <summary>
-        /// 释放COM RCW对象
+        /// 安全释放COM RCW，循环直到引用计数为0
         /// </summary>
-        //private void ReleaseComObj(object comObj)
-        //{
-        //    if (comObj != null)
-        //    {
-        //        System.Runtime.InteropServices.Marshal.ReleaseComObject(comObj);
-        //    }
-        //}
         private void ReleaseComObj(object comObj)
         {
             if (comObj == null) return;
             try
             {
                 int refCount = Marshal.ReleaseComObject(comObj);
-                //// 循环释放，直到引用计数归零
-                //while (refCount > 0)
-                //{
-                //    refCount = Marshal.ReleaseComObject(comObj);
-                //}
+                while (refCount > 0)
+                {
+                    refCount = Marshal.ReleaseComObject(comObj);
+                }
+            }
+            catch (COMException ex) when ((uint)ex.ErrorCode == 0x800706BA)
+            {
+                // RPC服务器不可用：进程已经死掉，不用处理
             }
             catch
             {
-                // 已经释放的COM对象会抛异常，忽略
+                // 其他释放异常直接忽略
             }
-            //finally
-            //{
-            //    // 置空
-            //    comObj = null;
-            //}
         }
+
+        /// <summary>
+        /// 正确释放COM对象，反向释放顺序
+        /// </summary>
         public void Disconnect()
         {
-            try
-            {
-                _iWorkspace = null;
-                _iInstrument = null;
-                _iReaderServer = null;
-                _iMagellan = null;
-                _IsConnected = false;
-                GC.Collect();
-            }
-            catch (Exception ex)
-            {
-            }
-            finally
-            {    
-            }
+            _IsConnected = false;
+
+            // 释放顺序：后创建的先释放
+            //ReleaseComObj(_iWorkspace);
+            _iWorkspace = null;
+
+          //  ReleaseComObj(_iInstrument);
+            _iInstrument = null;
+
+           // ReleaseComObj(_iReaderServer);
+            _iReaderServer = null;
+
+           // ReleaseComObj(_iMagellan);
+            _iMagellan = null;
+
+            GC.Collect();
+           // GC.WaitForPendingFinalizers();
+           // GC.Collect();
+            //GC.WaitForPendingFinalizers();
         }
+
         /// <summary>
         /// 清空工作空间
         /// </summary>

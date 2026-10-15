@@ -1838,7 +1838,7 @@
             this.lb_FinishTime.AutoSize = true;
             this.lb_FinishTime.Location = new System.Drawing.Point(254, 22);
             this.lb_FinishTime.Name = "lb_FinishTime";
-            this.lb_FinishTime.Size = new System.Drawing.Size(30, 27);
+            this.lb_FinishTime.Size = new System.Drawing.Size(24, 21);
             this.lb_FinishTime.TabIndex = 3;
             this.lb_FinishTime.Text = "--";
             this.lb_FinishTime.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1848,7 +1848,7 @@
             this.label23.AutoSize = true;
             this.label23.Location = new System.Drawing.Point(171, 22);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(72, 27);
+            this.label23.Size = new System.Drawing.Size(58, 21);
             this.label23.TabIndex = 2;
             this.label23.Text = "结束：";
             this.label23.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1858,7 +1858,7 @@
             this.lb_RunTime.AutoSize = true;
             this.lb_RunTime.Location = new System.Drawing.Point(83, 22);
             this.lb_RunTime.Name = "lb_RunTime";
-            this.lb_RunTime.Size = new System.Drawing.Size(30, 27);
+            this.lb_RunTime.Size = new System.Drawing.Size(24, 21);
             this.lb_RunTime.TabIndex = 1;
             this.lb_RunTime.Text = "--";
             this.lb_RunTime.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1868,7 +1868,7 @@
             this.label21.AutoSize = true;
             this.label21.Location = new System.Drawing.Point(17, 22);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(72, 27);
+            this.label21.Size = new System.Drawing.Size(58, 21);
             this.label21.TabIndex = 0;
             this.label21.Text = "开始：";
             this.label21.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1893,7 +1893,7 @@
             this.lb_DoneNum_ZH.ForeColor = System.Drawing.Color.Orange;
             this.lb_DoneNum_ZH.Location = new System.Drawing.Point(94, 40);
             this.lb_DoneNum_ZH.Name = "lb_DoneNum_ZH";
-            this.lb_DoneNum_ZH.Size = new System.Drawing.Size(48, 27);
+            this.lb_DoneNum_ZH.Size = new System.Drawing.Size(37, 21);
             this.lb_DoneNum_ZH.TabIndex = 9;
             this.lb_DoneNum_ZH.Text = "000";
             this.lb_DoneNum_ZH.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1904,7 +1904,7 @@
             this.label39.Font = new System.Drawing.Font("微软雅黑", 12F);
             this.label39.Location = new System.Drawing.Point(164, 40);
             this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(32, 27);
+            this.label39.Size = new System.Drawing.Size(26, 21);
             this.label39.TabIndex = 10;
             this.label39.Text = "个";
             this.label39.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1916,7 +1916,7 @@
             this.label40.ForeColor = System.Drawing.Color.Orange;
             this.label40.Location = new System.Drawing.Point(10, 40);
             this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(92, 27);
+            this.label40.Size = new System.Drawing.Size(74, 21);
             this.label40.TabIndex = 8;
             this.label40.Text = "总数量：";
             this.label40.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1941,7 +1941,7 @@
             this.lb_DoneNum_BY.ForeColor = System.Drawing.Color.Orange;
             this.lb_DoneNum_BY.Location = new System.Drawing.Point(93, 37);
             this.lb_DoneNum_BY.Name = "lb_DoneNum_BY";
-            this.lb_DoneNum_BY.Size = new System.Drawing.Size(48, 27);
+            this.lb_DoneNum_BY.Size = new System.Drawing.Size(37, 21);
             this.lb_DoneNum_BY.TabIndex = 6;
             this.lb_DoneNum_BY.Text = "000";
             this.lb_DoneNum_BY.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1952,7 +1952,7 @@
             this.label36.Font = new System.Drawing.Font("微软雅黑", 12F);
             this.label36.Location = new System.Drawing.Point(164, 37);
             this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(32, 27);
+            this.label36.Size = new System.Drawing.Size(26, 21);
             this.label36.TabIndex = 7;
             this.label36.Text = "个";
             this.label36.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1964,7 +1964,7 @@
             this.label37.ForeColor = System.Drawing.Color.Orange;
             this.label37.Location = new System.Drawing.Point(10, 37);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(92, 27);
+            this.label37.Size = new System.Drawing.Size(74, 21);
             this.label37.TabIndex = 5;
             this.label37.Text = "总数量：";
             this.label37.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1999,7 +1999,7 @@
             this.label18.ForeColor = System.Drawing.Color.Red;
             this.label18.Location = new System.Drawing.Point(248, 71);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(92, 27);
+            this.label18.Size = new System.Drawing.Size(74, 21);
             this.label18.TabIndex = 0;
             this.label18.Text = "异常率：";
             this.label18.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -2011,7 +2011,7 @@
             this.lb_AbnormalityRate.ForeColor = System.Drawing.Color.Red;
             this.lb_AbnormalityRate.Location = new System.Drawing.Point(341, 71);
             this.lb_AbnormalityRate.Name = "lb_AbnormalityRate";
-            this.lb_AbnormalityRate.Size = new System.Drawing.Size(24, 27);
+            this.lb_AbnormalityRate.Size = new System.Drawing.Size(19, 21);
             this.lb_AbnormalityRate.TabIndex = 1;
             this.lb_AbnormalityRate.Text = "0";
             this.lb_AbnormalityRate.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2023,7 +2023,7 @@
             this.lb_Yield.ForeColor = System.Drawing.Color.Orange;
             this.lb_Yield.Location = new System.Drawing.Point(341, 28);
             this.lb_Yield.Name = "lb_Yield";
-            this.lb_Yield.Size = new System.Drawing.Size(24, 27);
+            this.lb_Yield.Size = new System.Drawing.Size(19, 21);
             this.lb_Yield.TabIndex = 9;
             this.lb_Yield.Text = "0";
             this.lb_Yield.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2035,7 +2035,7 @@
             this.label16.ForeColor = System.Drawing.Color.Orange;
             this.label16.Location = new System.Drawing.Point(247, 28);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(92, 27);
+            this.label16.Size = new System.Drawing.Size(74, 21);
             this.label16.TabIndex = 0;
             this.label16.Text = "完成率：";
             this.label16.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -2047,7 +2047,7 @@
             this.lb_DoneNGNum_CN.ForeColor = System.Drawing.Color.Red;
             this.lb_DoneNGNum_CN.Location = new System.Drawing.Point(93, 112);
             this.lb_DoneNGNum_CN.Name = "lb_DoneNGNum_CN";
-            this.lb_DoneNGNum_CN.Size = new System.Drawing.Size(48, 27);
+            this.lb_DoneNGNum_CN.Size = new System.Drawing.Size(37, 21);
             this.lb_DoneNGNum_CN.TabIndex = 7;
             this.lb_DoneNGNum_CN.Text = "000";
             this.lb_DoneNGNum_CN.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2058,7 +2058,7 @@
             this.label33.Font = new System.Drawing.Font("微软雅黑", 12F);
             this.label33.Location = new System.Drawing.Point(164, 112);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(32, 27);
+            this.label33.Size = new System.Drawing.Size(26, 21);
             this.label33.TabIndex = 8;
             this.label33.Text = "个";
             this.label33.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2070,7 +2070,7 @@
             this.lb_DoneOKNum_CN.ForeColor = System.Drawing.Color.DarkCyan;
             this.lb_DoneOKNum_CN.Location = new System.Drawing.Point(93, 71);
             this.lb_DoneOKNum_CN.Name = "lb_DoneOKNum_CN";
-            this.lb_DoneOKNum_CN.Size = new System.Drawing.Size(48, 27);
+            this.lb_DoneOKNum_CN.Size = new System.Drawing.Size(37, 21);
             this.lb_DoneOKNum_CN.TabIndex = 5;
             this.lb_DoneOKNum_CN.Text = "000";
             this.lb_DoneOKNum_CN.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2081,7 +2081,7 @@
             this.label31.Font = new System.Drawing.Font("微软雅黑", 12F);
             this.label31.Location = new System.Drawing.Point(164, 71);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(32, 27);
+            this.label31.Size = new System.Drawing.Size(26, 21);
             this.label31.TabIndex = 6;
             this.label31.Text = "个";
             this.label31.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2093,7 +2093,7 @@
             this.label29.ForeColor = System.Drawing.Color.DarkCyan;
             this.label29.Location = new System.Drawing.Point(10, 71);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(112, 27);
+            this.label29.Size = new System.Drawing.Size(90, 21);
             this.label29.TabIndex = 2;
             this.label29.Text = "良品数量：";
             this.label29.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -2105,7 +2105,7 @@
             this.lb_DoneNum_CN.ForeColor = System.Drawing.Color.Orange;
             this.lb_DoneNum_CN.Location = new System.Drawing.Point(93, 28);
             this.lb_DoneNum_CN.Name = "lb_DoneNum_CN";
-            this.lb_DoneNum_CN.Size = new System.Drawing.Size(48, 27);
+            this.lb_DoneNum_CN.Size = new System.Drawing.Size(37, 21);
             this.lb_DoneNum_CN.TabIndex = 1;
             this.lb_DoneNum_CN.Text = "000";
             this.lb_DoneNum_CN.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2117,7 +2117,7 @@
             this.label28.ForeColor = System.Drawing.Color.Red;
             this.label28.Location = new System.Drawing.Point(10, 112);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(112, 27);
+            this.label28.Size = new System.Drawing.Size(90, 21);
             this.label28.TabIndex = 1;
             this.label28.Text = "异常数量：";
             this.label28.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -2128,7 +2128,7 @@
             this.label15.Font = new System.Drawing.Font("微软雅黑", 12F);
             this.label15.Location = new System.Drawing.Point(164, 28);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(32, 27);
+            this.label15.Size = new System.Drawing.Size(26, 21);
             this.label15.TabIndex = 4;
             this.label15.Text = "个";
             this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2140,7 +2140,7 @@
             this.label11.ForeColor = System.Drawing.Color.Orange;
             this.label11.Location = new System.Drawing.Point(10, 28);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(92, 27);
+            this.label11.Size = new System.Drawing.Size(74, 21);
             this.label11.TabIndex = 0;
             this.label11.Text = "总数量：";
             this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -3523,7 +3523,7 @@
             this.tableLayoutPanel33.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 170F));
             this.tableLayoutPanel33.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 79F));
             this.tableLayoutPanel33.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 161F));
-            this.tableLayoutPanel33.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 95F));
+            this.tableLayoutPanel33.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 93F));
             this.tableLayoutPanel33.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.tableLayoutPanel33.Controls.Add(this.label27, 6, 0);
             this.tableLayoutPanel33.Controls.Add(this.tb_ProductionRecordTubelID, 7, 0);
@@ -3592,7 +3592,7 @@
             this.dtp_ProductionRecordEndTimeScreen.SymbolNormal = 61555;
             this.dtp_ProductionRecordEndTimeScreen.SymbolSize = 24;
             this.dtp_ProductionRecordEndTimeScreen.TabIndex = 6;
-            this.dtp_ProductionRecordEndTimeScreen.Text = "2026-09-11 00:00:00";
+            this.dtp_ProductionRecordEndTimeScreen.Text = "2026/09/11 00:00:00";
             this.dtp_ProductionRecordEndTimeScreen.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.dtp_ProductionRecordEndTimeScreen.Value = new System.DateTime(2026, 9, 11, 0, 0, 0, 0);
             this.dtp_ProductionRecordEndTimeScreen.Watermark = "";
@@ -3656,7 +3656,7 @@
             this.dtp_ProductionRecordStartingTimeScreen.SymbolNormal = 61555;
             this.dtp_ProductionRecordStartingTimeScreen.SymbolSize = 24;
             this.dtp_ProductionRecordStartingTimeScreen.TabIndex = 3;
-            this.dtp_ProductionRecordStartingTimeScreen.Text = "2026-09-11 00:00:00";
+            this.dtp_ProductionRecordStartingTimeScreen.Text = "2026/09/11 00:00:00";
             this.dtp_ProductionRecordStartingTimeScreen.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.dtp_ProductionRecordStartingTimeScreen.Value = new System.DateTime(2026, 9, 11, 0, 0, 0, 0);
             this.dtp_ProductionRecordStartingTimeScreen.Watermark = "";
@@ -3895,7 +3895,7 @@
             this.Column15.MinimumWidth = 6;
             this.Column15.Name = "Column15";
             this.Column15.ReadOnly = true;
-            this.Column15.Width = 120;
+            this.Column15.Width = 98;
             // 
             // Column16
             // 
@@ -3904,7 +3904,7 @@
             this.Column16.MinimumWidth = 6;
             this.Column16.Name = "Column16";
             this.Column16.ReadOnly = true;
-            this.Column16.Width = 120;
+            this.Column16.Width = 98;
             // 
             // Column17
             // 
@@ -3913,7 +3913,7 @@
             this.Column17.MinimumWidth = 6;
             this.Column17.Name = "Column17";
             this.Column17.ReadOnly = true;
-            this.Column17.Width = 120;
+            this.Column17.Width = 98;
             // 
             // Column18
             // 
@@ -3922,7 +3922,7 @@
             this.Column18.MinimumWidth = 6;
             this.Column18.Name = "Column18";
             this.Column18.ReadOnly = true;
-            this.Column18.Width = 120;
+            this.Column18.Width = 98;
             // 
             // Column19
             // 
@@ -3931,7 +3931,7 @@
             this.Column19.MinimumWidth = 6;
             this.Column19.Name = "Column19";
             this.Column19.ReadOnly = true;
-            this.Column19.Width = 120;
+            this.Column19.Width = 98;
             // 
             // Column20
             // 
@@ -3940,7 +3940,7 @@
             this.Column20.MinimumWidth = 6;
             this.Column20.Name = "Column20";
             this.Column20.ReadOnly = true;
-            this.Column20.Width = 120;
+            this.Column20.Width = 98;
             // 
             // Column21
             // 
@@ -3949,7 +3949,7 @@
             this.Column21.MinimumWidth = 6;
             this.Column21.Name = "Column21";
             this.Column21.ReadOnly = true;
-            this.Column21.Width = 120;
+            this.Column21.Width = 98;
             // 
             // Column22
             // 
@@ -3958,6 +3958,7 @@
             this.Column22.MinimumWidth = 6;
             this.Column22.Name = "Column22";
             this.Column22.ReadOnly = true;
+            this.Column22.Width = 82;
             // 
             // Column23
             // 
@@ -3966,7 +3967,7 @@
             this.Column23.MinimumWidth = 6;
             this.Column23.Name = "Column23";
             this.Column23.ReadOnly = true;
-            this.Column23.Width = 120;
+            this.Column23.Width = 98;
             // 
             // Column24
             // 
@@ -3975,7 +3976,7 @@
             this.Column24.MinimumWidth = 6;
             this.Column24.Name = "Column24";
             this.Column24.ReadOnly = true;
-            this.Column24.Width = 98;
+            this.Column24.Width = 81;
             // 
             // Column25
             // 
@@ -3984,7 +3985,7 @@
             this.Column25.MinimumWidth = 6;
             this.Column25.Name = "Column25";
             this.Column25.ReadOnly = true;
-            this.Column25.Width = 120;
+            this.Column25.Width = 98;
             // 
             // Column26
             // 
@@ -3993,7 +3994,7 @@
             this.Column26.MinimumWidth = 6;
             this.Column26.Name = "Column26";
             this.Column26.ReadOnly = true;
-            this.Column26.Width = 120;
+            this.Column26.Width = 98;
             // 
             // Column28
             // 
@@ -4002,7 +4003,7 @@
             this.Column28.MinimumWidth = 6;
             this.Column28.Name = "Column28";
             this.Column28.ReadOnly = true;
-            this.Column28.Width = 80;
+            this.Column28.Width = 66;
             // 
             // tbP_HistoricalAlarms
             // 
@@ -4132,7 +4133,7 @@
             this.dtp_AlarmRecordEndTimeScreen.SymbolNormal = 61555;
             this.dtp_AlarmRecordEndTimeScreen.SymbolSize = 24;
             this.dtp_AlarmRecordEndTimeScreen.TabIndex = 6;
-            this.dtp_AlarmRecordEndTimeScreen.Text = "2026-09-10 11:01:53";
+            this.dtp_AlarmRecordEndTimeScreen.Text = "2026/09/10 11:01:53";
             this.dtp_AlarmRecordEndTimeScreen.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.dtp_AlarmRecordEndTimeScreen.Value = new System.DateTime(2026, 9, 10, 11, 1, 53, 0);
             this.dtp_AlarmRecordEndTimeScreen.Watermark = "";
@@ -4247,7 +4248,7 @@
             this.dtp_AlarmRecordStartingTimeScreen.SymbolNormal = 61555;
             this.dtp_AlarmRecordStartingTimeScreen.SymbolSize = 24;
             this.dtp_AlarmRecordStartingTimeScreen.TabIndex = 3;
-            this.dtp_AlarmRecordStartingTimeScreen.Text = "2026-09-10 11:01:53";
+            this.dtp_AlarmRecordStartingTimeScreen.Text = "2026/09/10 11:01:53";
             this.dtp_AlarmRecordStartingTimeScreen.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.dtp_AlarmRecordStartingTimeScreen.Value = new System.DateTime(2026, 9, 10, 11, 1, 53, 0);
             this.dtp_AlarmRecordStartingTimeScreen.Watermark = "";
@@ -4852,7 +4853,7 @@
             // tabPage1
             // 
             this.tabPage1.Controls.Add(this.dgv_A260OD);
-            this.tabPage1.Location = new System.Drawing.Point(4, 36);
+            this.tabPage1.Location = new System.Drawing.Point(4, 30);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(74, 0);
@@ -4918,7 +4919,7 @@
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.dgv_A280OD);
-            this.tabPage2.Location = new System.Drawing.Point(4, 36);
+            this.tabPage2.Location = new System.Drawing.Point(4, 30);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage2.Size = new System.Drawing.Size(74, 0);
@@ -4984,7 +4985,7 @@
             // tabPage3
             // 
             this.tabPage3.Controls.Add(this.dgv_A340OD);
-            this.tabPage3.Location = new System.Drawing.Point(4, 36);
+            this.tabPage3.Location = new System.Drawing.Point(4, 30);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Size = new System.Drawing.Size(74, 0);
             this.tabPage3.TabIndex = 2;
@@ -5308,7 +5309,7 @@
             this.tableLayoutPanel26.Controls.Add(this.uiLabel79, 0, 3);
             this.tableLayoutPanel26.Controls.Add(this.uiLabel92, 0, 1);
             this.tableLayoutPanel26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel26.Location = new System.Drawing.Point(3, 39);
+            this.tableLayoutPanel26.Location = new System.Drawing.Point(3, 32);
             this.tableLayoutPanel26.Name = "tableLayoutPanel26";
             this.tableLayoutPanel26.RowCount = 6;
             this.tableLayoutPanel26.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
@@ -5317,7 +5318,7 @@
             this.tableLayoutPanel26.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.tableLayoutPanel26.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.tableLayoutPanel26.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
-            this.tableLayoutPanel26.Size = new System.Drawing.Size(285, 273);
+            this.tableLayoutPanel26.Size = new System.Drawing.Size(285, 280);
             this.tableLayoutPanel26.TabIndex = 26;
             // 
             // uiLabel75
@@ -5327,7 +5328,7 @@
             this.uiLabel75.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
             this.uiLabel75.Location = new System.Drawing.Point(146, 1);
             this.uiLabel75.Name = "uiLabel75";
-            this.uiLabel75.Size = new System.Drawing.Size(135, 44);
+            this.uiLabel75.Size = new System.Drawing.Size(135, 45);
             this.uiLabel75.TabIndex = 27;
             this.uiLabel75.Text = "耗材量最低值";
             this.uiLabel75.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -5339,7 +5340,7 @@
             this.uiLabel74.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
             this.uiLabel74.Location = new System.Drawing.Point(4, 1);
             this.uiLabel74.Name = "uiLabel74";
-            this.uiLabel74.Size = new System.Drawing.Size(135, 44);
+            this.uiLabel74.Size = new System.Drawing.Size(135, 45);
             this.uiLabel74.TabIndex = 26;
             this.uiLabel74.Text = "耗材类型";
             this.uiLabel74.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -5349,14 +5350,14 @@
             this.uiTextBox21.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.uiTextBox21.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTextBox21.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.uiTextBox21.Location = new System.Drawing.Point(147, 231);
+            this.uiTextBox21.Location = new System.Drawing.Point(147, 236);
             this.uiTextBox21.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.uiTextBox21.MinimumSize = new System.Drawing.Size(1, 16);
             this.uiTextBox21.Name = "uiTextBox21";
             this.uiTextBox21.Padding = new System.Windows.Forms.Padding(5);
             this.uiTextBox21.RectColor = System.Drawing.Color.DarkCyan;
             this.uiTextBox21.ShowText = false;
-            this.uiTextBox21.Size = new System.Drawing.Size(133, 36);
+            this.uiTextBox21.Size = new System.Drawing.Size(133, 38);
             this.uiTextBox21.TabIndex = 24;
             this.uiTextBox21.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.uiTextBox21.Watermark = "";
@@ -5366,14 +5367,14 @@
             this.uiTextBox20.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.uiTextBox20.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTextBox20.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.uiTextBox20.Location = new System.Drawing.Point(147, 186);
+            this.uiTextBox20.Location = new System.Drawing.Point(147, 190);
             this.uiTextBox20.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.uiTextBox20.MinimumSize = new System.Drawing.Size(1, 16);
             this.uiTextBox20.Name = "uiTextBox20";
             this.uiTextBox20.Padding = new System.Windows.Forms.Padding(5);
             this.uiTextBox20.RectColor = System.Drawing.Color.DarkCyan;
             this.uiTextBox20.ShowText = false;
-            this.uiTextBox20.Size = new System.Drawing.Size(133, 34);
+            this.uiTextBox20.Size = new System.Drawing.Size(133, 35);
             this.uiTextBox20.TabIndex = 24;
             this.uiTextBox20.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.uiTextBox20.Watermark = "";
@@ -5383,14 +5384,14 @@
             this.uiTextBox19.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.uiTextBox19.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTextBox19.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.uiTextBox19.Location = new System.Drawing.Point(147, 141);
+            this.uiTextBox19.Location = new System.Drawing.Point(147, 144);
             this.uiTextBox19.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.uiTextBox19.MinimumSize = new System.Drawing.Size(1, 16);
             this.uiTextBox19.Name = "uiTextBox19";
             this.uiTextBox19.Padding = new System.Windows.Forms.Padding(5);
             this.uiTextBox19.RectColor = System.Drawing.Color.DarkCyan;
             this.uiTextBox19.ShowText = false;
-            this.uiTextBox19.Size = new System.Drawing.Size(133, 34);
+            this.uiTextBox19.Size = new System.Drawing.Size(133, 35);
             this.uiTextBox19.TabIndex = 24;
             this.uiTextBox19.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.uiTextBox19.Watermark = "";
@@ -5400,14 +5401,14 @@
             this.uiTextBox18.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.uiTextBox18.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTextBox18.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.uiTextBox18.Location = new System.Drawing.Point(147, 96);
+            this.uiTextBox18.Location = new System.Drawing.Point(147, 98);
             this.uiTextBox18.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.uiTextBox18.MinimumSize = new System.Drawing.Size(1, 16);
             this.uiTextBox18.Name = "uiTextBox18";
             this.uiTextBox18.Padding = new System.Windows.Forms.Padding(5);
             this.uiTextBox18.RectColor = System.Drawing.Color.DarkCyan;
             this.uiTextBox18.ShowText = false;
-            this.uiTextBox18.Size = new System.Drawing.Size(133, 34);
+            this.uiTextBox18.Size = new System.Drawing.Size(133, 35);
             this.uiTextBox18.TabIndex = 24;
             this.uiTextBox18.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.uiTextBox18.Watermark = "";
@@ -5417,9 +5418,9 @@
             this.uiLabel81.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiLabel81.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.uiLabel81.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel81.Location = new System.Drawing.Point(4, 181);
+            this.uiLabel81.Location = new System.Drawing.Point(4, 185);
             this.uiLabel81.Name = "uiLabel81";
-            this.uiLabel81.Size = new System.Drawing.Size(135, 44);
+            this.uiLabel81.Size = new System.Drawing.Size(135, 45);
             this.uiLabel81.TabIndex = 3;
             this.uiLabel81.Text = "50ultip";
             this.uiLabel81.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -5429,14 +5430,14 @@
             this.uiTextBox38.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.uiTextBox38.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTextBox38.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.uiTextBox38.Location = new System.Drawing.Point(147, 51);
+            this.uiTextBox38.Location = new System.Drawing.Point(147, 52);
             this.uiTextBox38.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.uiTextBox38.MinimumSize = new System.Drawing.Size(1, 16);
             this.uiTextBox38.Name = "uiTextBox38";
             this.uiTextBox38.Padding = new System.Windows.Forms.Padding(5);
             this.uiTextBox38.RectColor = System.Drawing.Color.DarkCyan;
             this.uiTextBox38.ShowText = false;
-            this.uiTextBox38.Size = new System.Drawing.Size(133, 34);
+            this.uiTextBox38.Size = new System.Drawing.Size(133, 35);
             this.uiTextBox38.TabIndex = 23;
             this.uiTextBox38.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.uiTextBox38.Watermark = "";
@@ -5446,9 +5447,9 @@
             this.uiLabel98.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiLabel98.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.uiLabel98.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel98.Location = new System.Drawing.Point(4, 91);
+            this.uiLabel98.Location = new System.Drawing.Point(4, 93);
             this.uiLabel98.Name = "uiLabel98";
-            this.uiLabel98.Size = new System.Drawing.Size(135, 44);
+            this.uiLabel98.Size = new System.Drawing.Size(135, 45);
             this.uiLabel98.TabIndex = 25;
             this.uiLabel98.Text = "中和液";
             this.uiLabel98.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -5458,9 +5459,9 @@
             this.uiLabel90.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiLabel90.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.uiLabel90.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel90.Location = new System.Drawing.Point(4, 226);
+            this.uiLabel90.Location = new System.Drawing.Point(4, 231);
             this.uiLabel90.Name = "uiLabel90";
-            this.uiLabel90.Size = new System.Drawing.Size(135, 46);
+            this.uiLabel90.Size = new System.Drawing.Size(135, 48);
             this.uiLabel90.TabIndex = 8;
             this.uiLabel90.Text = "10mltip";
             this.uiLabel90.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -5470,9 +5471,9 @@
             this.uiLabel79.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiLabel79.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.uiLabel79.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel79.Location = new System.Drawing.Point(4, 136);
+            this.uiLabel79.Location = new System.Drawing.Point(4, 139);
             this.uiLabel79.Name = "uiLabel79";
-            this.uiLabel79.Size = new System.Drawing.Size(135, 44);
+            this.uiLabel79.Size = new System.Drawing.Size(135, 45);
             this.uiLabel79.TabIndex = 2;
             this.uiLabel79.Text = "酶标板";
             this.uiLabel79.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -5482,9 +5483,9 @@
             this.uiLabel92.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiLabel92.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.uiLabel92.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel92.Location = new System.Drawing.Point(4, 46);
+            this.uiLabel92.Location = new System.Drawing.Point(4, 47);
             this.uiLabel92.Name = "uiLabel92";
-            this.uiLabel92.Size = new System.Drawing.Size(135, 44);
+            this.uiLabel92.Size = new System.Drawing.Size(135, 45);
             this.uiLabel92.TabIndex = 0;
             this.uiLabel92.Text = "对比buffer";
             this.uiLabel92.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -6146,7 +6147,7 @@
             this.tsmiDelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
             this.tsmiDelete.ForeColor = System.Drawing.SystemColors.ControlText;
             this.tsmiDelete.Name = "tsmiDelete";
-            this.tsmiDelete.Size = new System.Drawing.Size(124, 32);
+            this.tsmiDelete.Size = new System.Drawing.Size(112, 26);
             this.tsmiDelete.Text = "删除";
             this.tsmiDelete.Click += new System.EventHandler(this.tsmiDelete_Click);
             // 
@@ -6158,7 +6159,7 @@
             this.ContextMenuStrip_Scheme.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmiDelete});
             this.ContextMenuStrip_Scheme.Name = "ContextMenuStrip_Scheme";
-            this.ContextMenuStrip_Scheme.Size = new System.Drawing.Size(125, 36);
+            this.ContextMenuStrip_Scheme.Size = new System.Drawing.Size(113, 30);
             // 
             // ContextMenuStrip_Step
             // 
@@ -6168,14 +6169,14 @@
             this.ContextMenuStrip_Step.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmiDeleteStep});
             this.ContextMenuStrip_Step.Name = "ContextMenuStrip_Scheme";
-            this.ContextMenuStrip_Step.Size = new System.Drawing.Size(125, 36);
+            this.ContextMenuStrip_Step.Size = new System.Drawing.Size(113, 30);
             // 
             // tsmiDeleteStep
             // 
             this.tsmiDeleteStep.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
             this.tsmiDeleteStep.ForeColor = System.Drawing.SystemColors.ControlText;
             this.tsmiDeleteStep.Name = "tsmiDeleteStep";
-            this.tsmiDeleteStep.Size = new System.Drawing.Size(124, 32);
+            this.tsmiDeleteStep.Size = new System.Drawing.Size(112, 26);
             this.tsmiDeleteStep.Text = "删除";
             this.tsmiDeleteStep.Click += new System.EventHandler(this.tsmiDeleteStep_Click);
             // 
@@ -6719,7 +6720,7 @@
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1314, 748);
             this.Controls.Add(this.tableLayoutPanel1);

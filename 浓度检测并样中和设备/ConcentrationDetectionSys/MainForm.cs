@@ -1508,8 +1508,6 @@ namespace ConcentrationDetectionSys
         private void PLC_Timer_Tick(object sender, EventArgs e)
         {
             lb_ShowTime.Text = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss");
-
-            lb_ShowTime.Text = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss");
             if (!_isConnectedPLC)
             {
                 Light_PLCCommunicationStatus.State = UILightState.Off;
@@ -1585,7 +1583,11 @@ namespace ConcentrationDetectionSys
             {
                 _scanPLCAlarmTimer.Stop();
             }
-            
+            if(AlarmManager.Instance.isSoftHaveAlarm)
+                CommonParam.s_PLC.Write_Register_Value(1, 3104, "1", "short");
+            else
+                CommonParam.s_PLC.Write_Register_Value(1, 3104, "0", "short");
+
         }
         #endregion
         private void button2_Click(object sender, EventArgs e)

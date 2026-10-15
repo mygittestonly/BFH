@@ -4,9 +4,9 @@ D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64
 D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.csproj.CoreCompileInputs.cache
 D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.dll
 D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.pdb
-E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\bin\x64\Debug\ConcentrationDetectionSys.DAL.dll
-E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\bin\x64\Debug\ConcentrationDetectionSys.DAL.pdb
-E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.csproj.AssemblyReference.cache
-E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.csproj.CoreCompileInputs.cache
-E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.dll
-E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.pdb
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\bin\x64\Debug\ConcentrationDetectionSys.DAL.dll
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\bin\x64\Debug\ConcentrationDetectionSys.DAL.pdb
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.csproj.AssemblyReference.cache
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.csproj.CoreCompileInputs.cache
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.dll
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.DAL\obj\x64\Debug\ConcentrationDetectionSys.DAL.pdb
