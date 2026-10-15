@@ -1,0 +1,12 @@
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\bin\x64\Debug\ConcentrationDetectionSys.Hardware.dll
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\bin\x64\Debug\ConcentrationDetectionSys.Hardware.pdb
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x64\Debug\ConcentrationDetectionSys.Hardware.csproj.AssemblyReference.cache
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x64\Debug\ConcentrationDetectionSys.Hardware.csproj.CoreCompileInputs.cache
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x64\Debug\ConcentrationDetectionSys.Hardware.dll
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x64\Debug\ConcentrationDetectionSys.Hardware.pdb
+E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\bin\x64\Debug\ConcentrationDetectionSys.Hardware.dll
+E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\bin\x64\Debug\ConcentrationDetectionSys.Hardware.pdb
+E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x64\Debug\ConcentrationDetectionSys.Hardware.csproj.AssemblyReference.cache
+E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x64\Debug\ConcentrationDetectionSys.Hardware.csproj.CoreCompileInputs.cache
+E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x64\Debug\ConcentrationDetectionSys.Hardware.dll
+E:\BFH\惠州百思达医疗项目\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x64\Debug\ConcentrationDetectionSys.Hardware.pdb

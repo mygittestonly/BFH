@@ -1,0 +1,6 @@
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\bin\x86\Debug\ConcentrationDetectionSys.Hardware.dll
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\bin\x86\Debug\ConcentrationDetectionSys.Hardware.pdb
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x86\Debug\ConcentrationDetectionSys.Hardware.csproj.AssemblyReference.cache
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x86\Debug\ConcentrationDetectionSys.Hardware.csproj.CoreCompileInputs.cache
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x86\Debug\ConcentrationDetectionSys.Hardware.dll
+D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\x86\Debug\ConcentrationDetectionSys.Hardware.pdb

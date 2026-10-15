@@ -1,0 +1,5 @@
+﻿2026-10-14 20:46:52.652	ERROR	连接Magellan设备失败，设备名称：Infinite Series
+2026-10-14 20:48:11.457	ERROR	连接Magellan设备失败，设备名称：Infinite Series
+2026-10-14 20:48:38.417	ERROR	PLC连接失败，请检查IP地址和端口号是否正确，PLC是否在线
+2026-10-14 21:23:20.903	ERROR	连接Magellan设备失败，设备名称：Infinite Series
+2026-10-14 21:24:50.905	ERROR	PLC连接失败，请检查IP地址和端口号是否正确，PLC是否在线

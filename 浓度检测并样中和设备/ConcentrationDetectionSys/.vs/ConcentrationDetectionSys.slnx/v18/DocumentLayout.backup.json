@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674B5A-3394-926C-2B1E-70E5B00E4A5C}|UI{FA674B5A-3394-926C-2B1E-70E5B00E4A5C}|ConcentrationDetectionSys||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F623AB1-08DA-4849-9ED7-D028EDA8852F}|..\\ConcentrationDetectionSys.Common\\ConcentrationDetectionSys.Common.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.common\\commonparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\userfrm\\edituserfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:userfrm\\edituserfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\stepparamfrm\\concentrationmeasurementfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:stepparamfrm\\concentrationmeasurementfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\stepparamfrm\\neutralizefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:stepparamfrm\\neutralizefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241211E-60E3-4B08-805A-09F5D29B1F19}|..\\ConcentrationDetectionSys.Bll\\ConcentrationDetectionSys.Bll.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.bll\\concentrationmeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\userfrm\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:userfrm\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\userfrm\\adduserfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:userfrm\\adduserfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7519A43-7EB9-4A68-B6B5-01E48E63BB3A}|..\\ConcentrationDetectionSys.Hardware\\ConcentrationDetectionSys.Hardware.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.hardware\\magellan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0317DF-DCA8-49BC-AB27-32FCF5178A4E}|..\\ConcentrationDetectionSys.DAL\\ConcentrationDetectionSys.DAL.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.dal\\modbustcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\stepparamfrm\\humaninterventionfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:stepparamfrm\\humaninterventionfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\stepparamfrm\\aggregatesamplefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:stepparamfrm\\aggregatesamplefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\loadfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:loadfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\userfrm\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:userfrm\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F623AB1-08DA-4849-9ED7-D028EDA8852F}|..\\ConcentrationDetectionSys.Common\\ConcentrationDetectionSys.Common.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.common\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F623AB1-08DA-4849-9ED7-D028EDA8852F}|..\\ConcentrationDetectionSys.Common\\ConcentrationDetectionSys.Common.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.common\\logeventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F623AB1-08DA-4849-9ED7-D028EDA8852F}|..\\ConcentrationDetectionSys.Common\\ConcentrationDetectionSys.Common.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.common\\alarmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F623AB1-08DA-4849-9ED7-D028EDA8852F}|..\\ConcentrationDetectionSys.Common\\ConcentrationDetectionSys.Common.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.common\\capacityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|e:\\bfh\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcentrationDetectionSys",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\ConcentrationDetectionSys.csproj",
+              "RelativeDocumentMoniker": "ConcentrationDetectionSys.csproj",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\ConcentrationDetectionSys.csproj",
+              "RelativeToolTip": "ConcentrationDetectionSys.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-15T03:03:30.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAJgVAAAAAAAAAAAQwEEVAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:29:16.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcentrationMeasurement.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\ConcentrationMeasurement.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Bll\\ConcentrationMeasurement.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\ConcentrationMeasurement.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Bll\\ConcentrationMeasurement.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwGoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:32:35.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUserFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\UserFrm\\EditUserFrm.cs",
+              "RelativeDocumentMoniker": "UserFrm\\EditUserFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\UserFrm\\EditUserFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UserFrm\\EditUserFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:27:57.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\UserFrm\\LoginFrm.cs",
+              "RelativeDocumentMoniker": "UserFrm\\LoginFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\UserFrm\\LoginFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UserFrm\\LoginFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:28:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:05:35.065Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAHkHAAAAAAAAAAAAAJUHAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:05:39.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddUserFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\UserFrm\\AddUserFrm.cs",
+              "RelativeDocumentMoniker": "UserFrm\\AddUserFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\UserFrm\\AddUserFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UserFrm\\AddUserFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:27:54.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Magellan.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Hardware\\Magellan.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Hardware\\Magellan.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Hardware\\Magellan.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Hardware\\Magellan.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:29:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModbusTcp.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.DAL\\ModbusTcp.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.DAL\\ModbusTcp.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.DAL\\ModbusTcp.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.DAL\\ModbusTcp.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:28:46.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NeutralizeFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\StepParamFrm\\NeutralizeFrm.cs",
+              "RelativeDocumentMoniker": "StepParamFrm\\NeutralizeFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\StepParamFrm\\NeutralizeFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "StepParamFrm\\NeutralizeFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:28:19.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HumanInterventionFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\StepParamFrm\\HumanInterventionFrm.cs",
+              "RelativeDocumentMoniker": "StepParamFrm\\HumanInterventionFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\StepParamFrm\\HumanInterventionFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "StepParamFrm\\HumanInterventionFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:28:12.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcentrationMeasurementFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\StepParamFrm\\ConcentrationMeasurementFrm.cs",
+              "RelativeDocumentMoniker": "StepParamFrm\\ConcentrationMeasurementFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\StepParamFrm\\ConcentrationMeasurementFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "StepParamFrm\\ConcentrationMeasurementFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:28:08.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AggregatesampleFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\StepParamFrm\\AggregatesampleFrm.cs",
+              "RelativeDocumentMoniker": "StepParamFrm\\AggregatesampleFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\StepParamFrm\\AggregatesampleFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "StepParamFrm\\AggregatesampleFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:28:05.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:27:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogEventManager.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\LogEventManager.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Common\\LogEventManager.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\LogEventManager.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Common\\LogEventManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:26:16.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoadFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\LoadFrm.cs",
+              "RelativeDocumentMoniker": "LoadFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\LoadFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LoadFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:25:54.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\User.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Common\\User.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\User.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Common\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:05:09.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginFrm.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\UserFrm\\LoginFrm.cs",
+              "RelativeDocumentMoniker": "UserFrm\\LoginFrm.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\UserFrm\\LoginFrm.cs",
+              "RelativeToolTip": "UserFrm\\LoginFrm.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:17:48.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonParam.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\CommonParam.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Common\\CommonParam.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\CommonParam.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Common\\CommonParam.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwLIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:58:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AlarmManager.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:58:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CapacityClass.cs",
+              "DocumentMoniker": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\CapacityClass.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Common\\CapacityClass.cs",
+              "ToolTip": "E:\\BFH\\\u60E0\u5DDE\u767E\u601D\u8FBE\u533B\u7597\u9879\u76EE\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\CapacityClass.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Common\\CapacityClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:58:31.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

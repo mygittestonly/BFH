@@ -1,0 +1,172 @@
+{
+  "$type": "System.Collections.Generic.List`1[[ConcentrationDetectionSys.Bll.ProcessScheme, ConcentrationDetectionSys.Bll]], mscorlib",
+  "$values": [
+    {
+      "$type": "ConcentrationDetectionSys.Bll.ProcessScheme, ConcentrationDetectionSys.Bll",
+      "SchemeName": "3424",
+      "CreateTime": "2026-09-01T18:55:56.5813195+08:00",
+      "Steps": {
+        "$type": "System.Collections.Generic.List`1[[ConcentrationDetectionSys.Bll.BaseStep, ConcentrationDetectionSys.Bll]], mscorlib",
+        "$values": [
+          {
+            "$type": "ConcentrationDetectionSys.Bll.WeightStep, ConcentrationDetectionSys.Bll",
+            "StepTypeName": "称重"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Neutralize, ConcentrationDetectionSys.Bll",
+            "StepTypeName": "中和"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Shock, ConcentrationDetectionSys.Bll",
+            "p1": 0.0,
+            "p2": 0,
+            "StepTypeName": "振荡"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "ConcentrationDetectionSys.Bll.ProcessScheme, ConcentrationDetectionSys.Bll",
+      "SchemeName": "撒旦发射点",
+      "CreateTime": "2026-09-01T18:56:07.5773289+08:00",
+      "Steps": {
+        "$type": "System.Collections.Generic.List`1[[ConcentrationDetectionSys.Bll.BaseStep, ConcentrationDetectionSys.Bll]], mscorlib",
+        "$values": [
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Neutralize, ConcentrationDetectionSys.Bll",
+            "StepTypeName": "中和"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Shock, ConcentrationDetectionSys.Bll",
+            "p1": 0.0,
+            "p2": 0,
+            "StepTypeName": "振荡"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "ConcentrationDetectionSys.Bll.ProcessScheme, ConcentrationDetectionSys.Bll",
+      "SchemeName": "得瑟得瑟",
+      "CreateTime": "2026-09-17T21:18:34.5436171+08:00",
+      "Steps": {
+        "$type": "System.Collections.Generic.List`1[[ConcentrationDetectionSys.Bll.BaseStep, ConcentrationDetectionSys.Bll]], mscorlib",
+        "$values": [
+          {
+            "$type": "ConcentrationDetectionSys.Bll.WeightStep, ConcentrationDetectionSys.Bll",
+            "StepTypeName": "称重"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.ConcentrationMeasurement, ConcentrationDetectionSys.Bll",
+            "concentrationMeasurementParam": {
+              "$type": "ConcentrationDetectionSys.Bll.ConcentrationMeasurementParam, ConcentrationDetectionSys.Bll",
+              "RatioLowerLimit": -1.0,
+              "LowerOperator": ">",
+              "RatioUpperLimit": 3.0,
+              "UpperOperator": "<",
+              "OpticalDistance": 4.2
+            },
+            "StepTypeName": "随样测浓"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Aggregatesample, ConcentrationDetectionSys.Bll",
+            "aggregatesampleParam": {
+              "$type": "ConcentrationDetectionSys.Bll.AggregatesampleParam, ConcentrationDetectionSys.Bll",
+              "No1_Operator": ">=",
+              "No1_ComparisonValue": 10.0,
+              "No2_Operator": ">=",
+              "No2_ComparisonValue": 80.0,
+              "No3_Operator": ">=",
+              "No3_ComparisonValue": 10.0,
+              "No4_Operator": ">=",
+              "No4_ComparisonValue": 5.0,
+              "No5_Operator": ">=",
+              "No5_ComparisonValue": 95.0,
+              "No6_Operator": ">=",
+              "No6_ComparisonValue": 90.0,
+              "No7_Operator": "<=",
+              "No7_ComparisonValue": 30.0
+            },
+            "StepTypeName": "并样"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Neutralize, ConcentrationDetectionSys.Bll",
+            "StepTypeName": "中和"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Shock, ConcentrationDetectionSys.Bll",
+            "p1": 0.0,
+            "p2": 0,
+            "StepTypeName": "振荡"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "ConcentrationDetectionSys.Bll.ProcessScheme, ConcentrationDetectionSys.Bll",
+      "SchemeName": "SAD",
+      "CreateTime": "2026-09-18T09:44:39.9436523+08:00",
+      "Steps": {
+        "$type": "System.Collections.Generic.List`1[[ConcentrationDetectionSys.Bll.BaseStep, ConcentrationDetectionSys.Bll]], mscorlib",
+        "$values": [
+          {
+            "$type": "ConcentrationDetectionSys.Bll.WeightStep, ConcentrationDetectionSys.Bll",
+            "StepTypeName": "称重"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.ConcentrationMeasurement, ConcentrationDetectionSys.Bll",
+            "concentrationMeasurementParam": {
+              "$type": "ConcentrationDetectionSys.Bll.ConcentrationMeasurementParam, ConcentrationDetectionSys.Bll",
+              "RatioLowerLimit": 0.0,
+              "LowerOperator": ">=",
+              "RatioUpperLimit": 1.0,
+              "UpperOperator": "<=",
+              "OpticalDistance": 0.2
+            },
+            "StepTypeName": "随样测浓"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Aggregatesample, ConcentrationDetectionSys.Bll",
+            "aggregatesampleParam": {
+              "$type": "ConcentrationDetectionSys.Bll.AggregatesampleParam, ConcentrationDetectionSys.Bll",
+              "No1_Operator": ">=",
+              "No1_ComparisonValue": 11.0,
+              "No2_Operator": ">=",
+              "No2_ComparisonValue": 81.0,
+              "No3_Operator": ">=",
+              "No3_ComparisonValue": 11.0,
+              "No4_Operator": ">=",
+              "No4_ComparisonValue": 6.0,
+              "No5_Operator": ">=",
+              "No5_ComparisonValue": 96.0,
+              "No6_Operator": ">=",
+              "No6_ComparisonValue": 91.0,
+              "No7_Operator": "<=",
+              "No7_ComparisonValue": 31.0
+            },
+            "StepTypeName": "并样"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Neutralize, ConcentrationDetectionSys.Bll",
+            "StepTypeName": "中和"
+          },
+          {
+            "$type": "ConcentrationDetectionSys.Bll.Shock, ConcentrationDetectionSys.Bll",
+            "p1": 0.0,
+            "p2": 0,
+            "StepTypeName": "振荡"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "ConcentrationDetectionSys.Bll.ProcessScheme, ConcentrationDetectionSys.Bll",
+      "SchemeName": "GGG",
+      "CreateTime": "2026-09-18T16:52:18.2265094+08:00",
+      "Steps": {
+        "$type": "System.Collections.Generic.List`1[[ConcentrationDetectionSys.Bll.BaseStep, ConcentrationDetectionSys.Bll]], mscorlib",
+        "$values": []
+      }
+    }
+  ]
+}
