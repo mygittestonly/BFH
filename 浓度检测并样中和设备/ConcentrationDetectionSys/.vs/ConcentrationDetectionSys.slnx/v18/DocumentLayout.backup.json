@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|e:\\gitrepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F623AB1-08DA-4849-9ED7-D028EDA8852F}|..\\ConcentrationDetectionSys.Common\\ConcentrationDetectionSys.Common.csproj|e:\\gitrepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.common\\alarmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|e:\\gitrepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BA08BF-7F56-4D77-ACDC-05B8C8DB1815}|ConcentrationDetectionSys.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241211E-60E3-4B08-805A-09F5D29B1F19}|..\\ConcentrationDetectionSys.Bll\\ConcentrationDetectionSys.Bll.csproj|e:\\gitrepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.bll\\aggregatesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241211E-60E3-4B08-805A-09F5D29B1F19}|..\\ConcentrationDetectionSys.Bll\\ConcentrationDetectionSys.Bll.csproj|e:\\gitrepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.bll\\basestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F623AB1-08DA-4849-9ED7-D028EDA8852F}|..\\ConcentrationDetectionSys.Common\\ConcentrationDetectionSys.Common.csproj|e:\\gitrepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\concentrationdetectionsys.common\\logeventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Hardware\\Magellan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,9 +40,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\ExecuteBll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\AlarmManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.DAL\\SqlHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -54,22 +67,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAANoFAAAAAAAAAAAUwOQFAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T01:32:14.668Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
@@ -80,7 +79,97 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAALYaAAAAAAAAAAA3wL4aAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:11:37.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAADcHAAAAAAAAAAAAAEYHAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:11:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:11:07.432Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AlarmManager.cs",
+              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
+              "ToolTip": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:08:25.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseStep.cs",
+              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\BaseStep.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Bll\\BaseStep.cs",
+              "ToolTip": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\BaseStep.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Bll\\BaseStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:21:45.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogEventManager.cs",
+              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\LogEventManager.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Common\\LogEventManager.cs",
+              "ToolTip": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\LogEventManager.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Common\\LogEventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:58:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aggregatesample.cs",
+              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\Aggregatesample.cs",
+              "RelativeDocumentMoniker": "..\\ConcentrationDetectionSys.Bll\\Aggregatesample.cs",
+              "ToolTip": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\Aggregatesample.cs",
+              "RelativeToolTip": "..\\ConcentrationDetectionSys.Bll\\Aggregatesample.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAvwPMCAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:41:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Magellan.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Hardware\\Magellan.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Hardware\\Magellan.cs",
@@ -89,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "WeightStep.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\WeightStep.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\WeightStep.cs",
@@ -99,17 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "E:\\GitRepos\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys\\MainForm.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T11:00:41.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Neutralize.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\Neutralize.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\Neutralize.cs",
@@ -119,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Aggregatesample.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\Aggregatesample.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\Aggregatesample.cs",
@@ -129,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ExecuteBll.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\ExecuteBll.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\ExecuteBll.cs",
@@ -139,17 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AlarmManager.cs",
-              "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
-              "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\AlarmManager.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAAAIEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T14:08:38.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "SqlHelper.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.DAL\\SqlHelper.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.DAL\\SqlHelper.cs",
@@ -159,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ConcentrationMeasurement.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\ConcentrationMeasurement.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Bll\\ConcentrationMeasurement.cs",
@@ -169,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "CommonParam.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\CommonParam.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\CommonParam.cs",
@@ -179,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ExcelHelper.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Tools\\ExcelHelper.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Tools\\ExcelHelper.cs",
@@ -189,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "DeviceState.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\DeviceState.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.Common\\DeviceState.cs",
@@ -199,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ModbusTcp.cs",
               "DocumentMoniker": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.DAL\\ModbusTcp.cs",
               "ToolTip": "D:\\BFH\\2026\\\u6D53\u5EA6\u68C0\u6D4B\u5E76\u6837\u4E2D\u548C\u8BBE\u5907\\ConcentrationDetectionSys.DAL\\ModbusTcp.cs",

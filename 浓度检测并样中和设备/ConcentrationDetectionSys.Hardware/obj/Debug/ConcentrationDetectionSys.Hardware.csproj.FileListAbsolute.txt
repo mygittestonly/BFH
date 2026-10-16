@@ -4,3 +4,9 @@ D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\ob
 D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\Debug\ConcentrationDetectionSys.Hardware.csproj.CoreCompileInputs.cache
 D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\Debug\ConcentrationDetectionSys.Hardware.dll
 D:\BFH\2026\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\Debug\ConcentrationDetectionSys.Hardware.pdb
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\bin\Debug\ConcentrationDetectionSys.Hardware.dll
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\bin\Debug\ConcentrationDetectionSys.Hardware.pdb
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\Debug\ConcentrationDetectionSys.Hardware.csproj.AssemblyReference.cache
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\Debug\ConcentrationDetectionSys.Hardware.csproj.CoreCompileInputs.cache
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\Debug\ConcentrationDetectionSys.Hardware.dll
+E:\GitRepos\浓度检测并样中和设备\ConcentrationDetectionSys.Hardware\obj\Debug\ConcentrationDetectionSys.Hardware.pdb
